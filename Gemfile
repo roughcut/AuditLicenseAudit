@@ -36,7 +36,4 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
-
-gem 'mime-types'
-gem 'pusher'
-gem 'thin'
+gem 'money-rails'
