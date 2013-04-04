@@ -36,4 +36,6 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
-gem 'money-rails'
+group :eff do
+  gem 'money-rails'
+end
